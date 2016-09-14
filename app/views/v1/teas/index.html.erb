@@ -1,0 +1,17 @@
+<h1>Listing products</h1>
+
+<table>
+  <tr>
+    <th>Id</th>
+    <th>Name</th>
+  </tr>
+
+  <% @teas.each do |tea| %>
+      <tr>
+        <td><%= tea.id %></td>
+        <td><%= tea.name %></td>
+        <td><%= link_to 'Show', tea_path(tea) %></td>
+        <td><%= link_to 'Edit', edit_tea_path(tea) %></td>
+      </tr>
+  <% end %>
+</table>
