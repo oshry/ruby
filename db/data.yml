@@ -1,0 +1,131 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - '2016-09-09 11:56:56.860936'
+    - '2016-09-09 11:56:56.860936'
+
+---
+products:
+  columns:
+  - id
+  - title
+  - text
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - first title
+    - first text
+    - '2016-09-09 12:13:30.590378'
+    - '2016-09-09 12:13:30.590378'
+  - - 2
+    - sssdsd
+    - sdsd
+    - '2016-09-09 12:13:40.694053'
+    - '2016-09-09 12:13:40.694053'
+
+---
+teastores:
+  columns:
+  - id
+  - name
+  - description
+  - thumb
+  - price
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - Echinacea
+    - 'This intense spicy sweet herbal tea blend helps support our physical balance
+      and well-being. Prized echinacea combines with sweet fennel, spicy ginger and
+      cardamom to make this a perfectly harmonious Ayurvedic tea blend. The essence
+      of this tea is: ‘I am protected’.'
+    - https://cdn.yogitea.com/wp-content/uploads/sites/7/2014/12/en_produkt_enchinacea-267x400.png
+    - '94'
+    - '2016-09-13 11:51:56.346786'
+    - '2016-09-13 12:31:22.316592'
+  - - 2
+    - Ginger
+    - 'Ginger is unbelievably heart-warming in its own right. Thanks to its natural
+      spiciness it is invigorating, strengthening and empowering. It is no surprise
+      that Ayurveda attributes so many positive benefits to this special ingredient.
+      YOGI TEA® Ginger combines this magical root with lemongrass, liquorice, peppermint
+      and black pepper for a deliciously warming tea. The essence of this tea is:
+      ‘Universally mystical’.'
+    - https://cdn.yogitea.com/wp-content/uploads/sites/7/2014/12/en_produkt_ginger-267x400.png
+    - '200'
+    - '2016-09-13 11:56:22.222269'
+    - '2016-09-13 18:23:21.231058'
+  - - 3
+    - Ginger Lemon
+    - 'The spicy taste of ginger warms the heart and lifts the spirit. The fruity,
+      tart taste of lemon refreshes the mind and invigorates the soul. Hints of lemongrass,
+      liquorice and black pepper add a light, spicy sweetness. Always delicious, this
+      tea refreshes in the summer and warms in the winter. The essence of this tea
+      is: ‘Optimistic new beginnings’.'
+    - https://cdn.yogitea.com/wp-content/uploads/sites/7/2014/12/en_produkt_gingerLem-267x400.png
+    - '23'
+    - '2016-09-13 18:28:06.608496'
+    - '2016-09-13 18:28:06.608496'
+  - - 4
+    - Detox with Lemon
+    - 'Just as we regularly clean and tidy our houses, and decorate them with flowers,
+      we should also regularly clean our bodies. YOGI TEA® Detox with Lemon combines
+      mildly bitter dandelion with sweet liquorice and spicy ginger in this unique
+      tea to help us greet each new day renewed and refreshed. Fruity lemon adds a
+      deliciously tangy taste. The essence of this tea is: ‘Renewal’.'
+    - https://cdn.yogitea.com/wp-content/uploads/sites/7/2014/12/en_produkt_detoxWiLe-267x400.png
+    - '34'
+    - '2016-09-13 18:28:57.358343'
+    - '2016-09-13 18:28:57.358343'
+  - - 5
+    - Ginger Orange with Vanilla
+    - 'Spicy ginger and sweet orange give this tea a deliciously sunny taste and put
+      you in a good mood like an exuberant summer’s day. Ginger adds spiciness and
+      vitality. Combined with sweet liquorice, fruity orange and a hint of vanilla,
+      it will at last be summer again. The essence of this tea is: ‘Sunshine and confidence’.'
+    - https://cdn.yogitea.com/wp-content/uploads/sites/7/2014/12/en_produkt_gingerOrVa-267x400.png
+    - '44'
+    - '2016-09-13 18:29:49.806065'
+    - '2016-09-13 18:29:49.806065'
+  - - 6
+    - Ginseng
+    - 'YOGI TEA® Ginseng centres you, calms and supports your inner strength. The
+      carefully balanced blend of ginseng, fruity lemongrass, orange peel and fresh
+      peppermint creates a delightful, complex tea to be enjoyed any time of the day.
+      The essence of this tea is: ‘Inner peace and confidence’.'
+    - https://cdn.yogitea.com/wp-content/uploads/sites/7/2014/12/GINSENG_300dpi_GB-SCAN_P01-267x400.png
+    - '43'
+    - '2016-09-13 18:30:47.159284'
+    - '2016-09-13 18:30:47.159284'
+  - - 7
+    - Stomach Ease
+    - 'YOGI TEA® Stomach Ease is inspired by the Indian Ayurvedic tradition of masala
+      blends. These special herbal blends add delicious flavour. In YOGI TEA® Stomach
+      Ease herbs such as fennel, liquorice and peppermint are combined with heart-warming
+      spices like cardamom, coriander, ginger and black pepper making this a delicious
+      tea to be enjoyed with meals or any time during the day. The essence of this
+      tea is: ''Comforting''.'
+    - https://cdn.yogitea.com/wp-content/uploads/sites/7/2014/12/en_produkt_stomachEa-267x400.png
+    - '22'
+    - '2016-09-13 18:31:35.867244'
+    - '2016-09-13 18:31:35.867244'
+  - - 8
+    - Rose
+    - 'The delightful floral aroma of rose petals is irresistible. Breathe in the
+      fragrant aroma. Then take a sip and allow yourself to be engulfed by this delicious
+      and soothing floral blend of chamomile, hibiscus, elderflower and lavender.
+      The essence of this tea is: ‘Messenger of love’.'
+    - https://cdn.yogitea.com/wp-content/uploads/sites/7/2014/12/en_produkt_rose-267x400.png
+    - '12'
+    - '2016-09-13 18:32:29.041343'
+    - '2016-09-13 18:32:29.041343'

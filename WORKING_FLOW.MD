@@ -84,8 +84,12 @@ details
 
 16. adding versions: ref:[https://www.bignerdranch.com/blog/adding-versions-rails-api/]
     1. create -> constraints/api_constraint.rb
+17. database dump
+    1. add gem 'yaml_db'
+    2. gem install yaml_db
+    3. rake db:data:dump
 read more:
 1. routing -> http://guides.rubyonrails.org/routing.html
 2. ruby language -> http://ruby-doc.com/docs/ProgrammingRuby/
 3. migration -> http://edgeguides.rubyonrails.org/active_record_migrations.html
-4.
+
